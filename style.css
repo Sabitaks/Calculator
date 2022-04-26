@@ -1,0 +1,53 @@
+/* Calculator style**************************************/
+
+.maincontainer{
+    text-align: center;
+    margin-top: 43px;
+}
+h1{
+    color: rgb(13, 13, 122);
+    font-size: 60px;
+    margin-bottom: 60px;
+    text-decoration-line: underline;
+}
+
+table{
+    margin-top: 0px;
+    margin: auto;
+    background-color: rgb(81, 88, 86);
+    border-radius: 12px;
+    
+}
+input{
+    display: block;
+    font-size: 34px;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 23px;
+    margin-bottom: 25px;
+    border: 3px solid black;
+    background-color:white;
+    height: 50px;
+
+}
+button{
+    font-size: 40px;
+    width: 102px;
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    cursor: pointer;
+    /* padding: 6px; */
+    box-sizing: border-box;
+}
+.container{
+    /* display: inline-block; */
+    margin: auto;
+    width: 28%;
+    height: 385px;
+    background-color:teal;
+    padding: 8px;
+    border: 3px solid rgb(14, 58, 54);
+    border-radius: 8px;
+}
